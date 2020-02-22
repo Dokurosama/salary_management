@@ -21,7 +21,8 @@ public class Message {
     public static final String MESSAGE_POSITION_SET_WORK = "INGRESE LA POSICION DEL TRABAJADOR AL QUE QUIERE ASIGNAR UN TRABAJO";
     public static final String MESSAGE_SELECT_WORK = "seleccione el trabajo que desea asignarle";
     
-    
+    porque putas no sirve
+            
     public static final int WIDHT = 40;
     
     
