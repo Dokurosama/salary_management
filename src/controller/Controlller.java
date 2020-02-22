@@ -76,4 +76,10 @@ public class Controlller {
         Activities work = io.readWork(Message.MESSAGE_SELECT_WORK);
         farm.setWork(farm.getWorkers().get(i), work);
     }
+
+    public void itsWorking() {
+        System.out.println("esto esta funcionando");
+    }
+    nananna
+            
 }
